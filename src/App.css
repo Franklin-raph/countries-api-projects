@@ -39,7 +39,7 @@ a{
 }
 
 body{
-  background-color: var(--Very-Dark-Blue-1);
+  /* background-color: var(--Very-Dark-Blue-1); */
   overflow-x: hidden;
 }
 
@@ -116,7 +116,12 @@ body{
   align-items: center;
   gap: 120px;
   color: #fff;
-  margin-bottom: 10rem;
+  margin-bottom: 20rem;
+  /*  */
+}
+
+.singleCountry {
+  /* margin-bottom: 20rem; */
 }
 
 .singleCountry a{
