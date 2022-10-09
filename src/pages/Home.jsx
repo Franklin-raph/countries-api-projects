@@ -24,7 +24,7 @@ const Home = () => {
   return (
     <>
         
-        <div>
+        <div className='home'>
         {isLoading ? 
         <LoadingSpinner /> 
         : 

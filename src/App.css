@@ -233,7 +233,6 @@ option{
 
 .homeDarkMode{
   background-color: hsl(207, 26%, 17%);
-  
 }
 
 .homeLightMode .singleCountry a{
@@ -250,8 +249,12 @@ option{
   color: var(--Very-Dark-Blue-1);
 }
 
-.homeLightMode .navbar,.homeLightMode .countryCard, .homeLightMode .countryCard .countryInfo h4 span{
+.homeLightMode .navbar,.homeLightMode .countryCard, .homeLightMode .countryCard .countryInfo h4 span, .homeLightMode option{
   color: #000 !important;
+}
+
+.home{
+  padding-bottom: 20rem;
 }
 
 @media screen and (max-width: 1024px) {
