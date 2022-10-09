@@ -3,3 +3,4 @@
 ---
 
 I consumed the rest countries api for this project using REACT JS
+NOTE: Got the design from front end mentor
